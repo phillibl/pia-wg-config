@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/kylegrantlucas/pia-wg-config/pia"
+	"github.com/phillibl/pia-wg-config/pia"
 	cli "github.com/urfave/cli/v2"
 )
 
