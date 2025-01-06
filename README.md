@@ -6,6 +6,8 @@ A Wireguard config generator for Private Internet Access.
 
 `go install github.com/phillibl/pia-wg-config@latest`
 
+`sudo cp ~/go/bin/pia-wg-config /usr/bin/pia-wg-config`
+
 `pia-wg-config -o wg0.conf USERNAME PASSWORD`
 
 You can now use `wg0.conf` to connect using your favorite wireguard client.
